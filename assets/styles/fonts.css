@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "boostland";
+  src: url("../fonts/boostlandregular.eot");
+  src: url("../fonts/boostlandregular.eot") format("embedded-opentype"), url("../fonts/boostlandregular.woff2") format("woff2"), url("../fonts/boostlandregular.woff") format("woff"), url("../fonts/boostlandregular.ttf") format("truetype"), url("../fonts/boostlandregular.svg#boostlandregular") format("svg");
+}
+@font-face {
+  font-family: "boostland";
+  src: url("../fonts/boostlandmedium.eot");
+  src: url("../fonts/boostlandmedium.eot") format("embedded-opentype"), url("../fonts/boostlandmedium.woff2") format("woff2"), url("../fonts/boostlandmedium.woff") format("woff"), url("../fonts/boostlandmedium.ttf") format("truetype"), url("../fonts/boostlandmedium.svg#boostlandmedium") format("svg");
+  font-style: italic;
+}
+@font-face {
+  font-family: "boostland";
+  src: url("../fonts/boostlandbold.eot");
+  src: url("../fonts/boostlandbold.eot") format("embedded-opentype"), url("../fonts/boostlandbold.woff2") format("woff2"), url("../fonts/boostlandbold.woff") format("woff"), url("../fonts/boostlandbold.ttf") format("truetype"), url("../fonts/boostlandbold.svg#boostlandbold") format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=fonts.css.map */

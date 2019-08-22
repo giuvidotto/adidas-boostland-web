@@ -1,0 +1,37 @@
+div, article, section, header, footer, nav, h1, h1, h3, h4, h5, h6, p, a, span, ul, ol, li, table, tr, th, td, img, figure, figcaption, form, fieldset {
+  margin: 0;
+  padding: 0;
+  line-height: 100%;
+}
+
+fieldset, a, img {
+  border: 0;
+}
+
+header, footer, section, article, nav, figure, figcaption {
+  display: block;
+  line-height: 100%;
+}
+
+*:focus {
+  outline: 0;
+}
+
+img, a, :focus {
+  outline: 0;
+  text-decoration: none;
+}
+
+::-moz-focus-inner {
+  border: 0;
+}
+
+p {
+  text-align: left;
+}
+
+ul, ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=reset.css.map */
