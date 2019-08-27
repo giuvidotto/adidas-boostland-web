@@ -1,7 +1,7 @@
 /* Error: Undefined variable.
  *   ,
- * 2 | @media all and (max-width:#{$grid-breakpoint-xxl}){
- *   |                             ^^^^^^^^^^^^^^^^^^^^
+ * 2 | @media all and (max-width:#{$grid-breakpoint-xxl-xl}){
+ *   |                             ^^^^^^^^^^^^^^^^^^^^^^^
  *   '
  *   app\assets\styles\responsive.scss 2:29  root stylesheet */
 
@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: "Error: Undefined variable.\a   \2577 \a 2 \2502  @media all and (max-width:#{$grid-breakpoint-xxl}){\d\a   \2502                              ^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   app\\assets\\styles\\responsive.scss 2:29  root stylesheet";
+  content: "Error: Undefined variable.\a   \2577 \a 2 \2502  @media all and (max-width:#{$grid-breakpoint-xxl-xl}){\d\a   \2502                              ^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   app\\assets\\styles\\responsive.scss 2:29  root stylesheet";
 }
