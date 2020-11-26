@@ -272,64 +272,64 @@ img {
 .window .title i.decor-1 {
   background-size: 2.4rem auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-min.png);
+  background-image: url(../images/s/ico-min.png);
   background-position: center bottom 0.8rem;
 }
 @media all and (min-width: 480px) {
   .window .title i.decor-1 {
-    background-image: url(../../../app/assets/images/m/ico-min.png);
+    background-image: url(../images/m/ico-min.png);
   }
 }
 @media all and (min-width: 880px) {
   .window .title i.decor-1 {
-    background-image: url(../../../app/assets/images/l/ico-min.png);
+    background-image: url(../images/l/ico-min.png);
   }
 }
 @media all and (min-width: 1340px) {
   .window .title i.decor-1 {
-    background-image: url(../../../app/assets/images/xl/ico-min.png);
+    background-image: url(../images/xl/ico-min.png);
   }
 }
 .window .title i.decor-2 {
   background-size: 1.8rem auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-max.png);
+  background-image: url(../images/s/ico-max.png);
   background-position: center bottom 0.8rem;
 }
 @media all and (min-width: 480px) {
   .window .title i.decor-2 {
-    background-image: url(../../../app/assets/images/m/ico-max.png);
+    background-image: url(../images/m/ico-max.png);
   }
 }
 @media all and (min-width: 880px) {
   .window .title i.decor-2 {
-    background-image: url(../../../app/assets/images/l/ico-max.png);
+    background-image: url(../images/l/ico-max.png);
   }
 }
 @media all and (min-width: 1340px) {
   .window .title i.decor-2 {
-    background-image: url(../../../app/assets/images/xl/ico-max.png);
+    background-image: url(../images/xl/ico-max.png);
   }
 }
 .window .title i.decor-3 {
   background-size: 1.8rem auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-close.png);
+  background-image: url(../images/s/ico-close.png);
   background-position: center bottom 0.8rem;
 }
 @media all and (min-width: 480px) {
   .window .title i.decor-3 {
-    background-image: url(../../../app/assets/images/m/ico-close.png);
+    background-image: url(../images/m/ico-close.png);
   }
 }
 @media all and (min-width: 880px) {
   .window .title i.decor-3 {
-    background-image: url(../../../app/assets/images/l/ico-close.png);
+    background-image: url(../images/l/ico-close.png);
   }
 }
 @media all and (min-width: 1340px) {
   .window .title i.decor-3 {
-    background-image: url(../../../app/assets/images/xl/ico-close.png);
+    background-image: url(../images/xl/ico-close.png);
   }
 }
 
@@ -405,22 +405,22 @@ img {
   width: 0;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/logo-adidas.png);
+  background-image: url(../images/s/logo-adidas.png);
   background-position: center center;
 }
 @media all and (min-width: 480px) {
   #wrapper .top .menu .list .item.logo-adidas a {
-    background-image: url(../../../app/assets/images/m/logo-adidas.png);
+    background-image: url(../images/m/logo-adidas.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .top .menu .list .item.logo-adidas a {
-    background-image: url(../../../app/assets/images/l/logo-adidas.png);
+    background-image: url(../images/l/logo-adidas.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .top .menu .list .item.logo-adidas a {
-    background-image: url(../../../app/assets/images/xl/logo-adidas.png);
+    background-image: url(../images/xl/logo-adidas.png);
   }
 }
 #wrapper .top .menu .list .item.logo-boostland a {
@@ -431,22 +431,22 @@ img {
   width: 0;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/logo-boostland-menu.png);
+  background-image: url(../images/s/logo-boostland-menu.png);
   background-position: center center;
 }
 @media all and (min-width: 480px) {
   #wrapper .top .menu .list .item.logo-boostland a {
-    background-image: url(../../../app/assets/images/m/logo-boostland-menu.png);
+    background-image: url(../images/m/logo-boostland-menu.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .top .menu .list .item.logo-boostland a {
-    background-image: url(../../../app/assets/images/l/logo-boostland-menu.png);
+    background-image: url(../images/l/logo-boostland-menu.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .top .menu .list .item.logo-boostland a {
-    background-image: url(../../../app/assets/images/xl/logo-boostland-menu.png);
+    background-image: url(../images/xl/logo-boostland-menu.png);
   }
 }
 #wrapper .top .menu .list .item.ico-menu {
@@ -460,22 +460,22 @@ img {
   width: 0;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-menu.png);
+  background-image: url(../images/s/ico-menu.png);
   background-position: center center;
 }
 @media all and (min-width: 480px) {
   #wrapper .top .menu .list .item.ico-menu a {
-    background-image: url(../../../app/assets/images/m/ico-menu.png);
+    background-image: url(../images/m/ico-menu.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .top .menu .list .item.ico-menu a {
-    background-image: url(../../../app/assets/images/l/ico-menu.png);
+    background-image: url(../images/l/ico-menu.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .top .menu .list .item.ico-menu a {
-    background-image: url(../../../app/assets/images/xl/ico-menu.png);
+    background-image: url(../images/xl/ico-menu.png);
   }
 }
 #wrapper .home {
@@ -492,24 +492,24 @@ img {
   left: 0;
   background-size: auto;
   background-repeat: repeat;
-  background-image: url(../../../app/assets/images/s/bg-pattern-1.png);
+  background-image: url(../images/s/bg-pattern-1.png);
   background-position: center center;
   background-color: #000;
   z-index: -1;
 }
 @media all and (min-width: 480px) {
   #wrapper .home:before {
-    background-image: url(../../../app/assets/images/m/bg-pattern-1.png);
+    background-image: url(../images/m/bg-pattern-1.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .home:before {
-    background-image: url(../../../app/assets/images/l/bg-pattern-1.png);
+    background-image: url(../images/l/bg-pattern-1.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .home:before {
-    background-image: url(../../../app/assets/images/xl/bg-pattern-1.png);
+    background-image: url(../images/xl/bg-pattern-1.png);
   }
 }
 #wrapper .home .slogan {
@@ -526,7 +526,7 @@ img {
 #wrapper .home .logo .logo-boostland {
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/logo-boostland.png);
+  background-image: url(../images/s/logo-boostland.png);
   background-position: center center;
   padding-bottom: 18%;
   height: 0;
@@ -538,17 +538,17 @@ img {
 }
 @media all and (min-width: 480px) {
   #wrapper .home .logo .logo-boostland {
-    background-image: url(../../../app/assets/images/m/logo-boostland.png);
+    background-image: url(../images/m/logo-boostland.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .home .logo .logo-boostland {
-    background-image: url(../../../app/assets/images/l/logo-boostland.png);
+    background-image: url(../images/l/logo-boostland.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .home .logo .logo-boostland {
-    background-image: url(../../../app/assets/images/xl/logo-boostland.png);
+    background-image: url(../images/xl/logo-boostland.png);
   }
 }
 #wrapper .home .logo .logo-boostland:hover {
@@ -659,22 +659,22 @@ img {
 #wrapper .home .main .info .list .item:hover.map .ico {
   background-size: auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-map.png);
+  background-image: url(../images/s/ico-map.png);
   background-position: center center;
 }
 @media all and (min-width: 480px) {
   #wrapper .home .main .info .list .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/m/ico-map.png);
+    background-image: url(../images/m/ico-map.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .home .main .info .list .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/l/ico-map.png);
+    background-image: url(../images/l/ico-map.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .home .main .info .list .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/xl/ico-map.png);
+    background-image: url(../images/xl/ico-map.png);
   }
 }
 #wrapper .home .main .info .list .item:hover.map .text {
@@ -693,7 +693,7 @@ img {
 #wrapper .home .main .info .list .item.map .ico {
   background-size: auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-map-inverted.png);
+  background-image: url(../images/s/ico-map-inverted.png);
   background-position: center center;
   font-size: 0;
   flex-shrink: 0;
@@ -704,17 +704,17 @@ img {
 }
 @media all and (min-width: 480px) {
   #wrapper .home .main .info .list .item.map .ico {
-    background-image: url(../../../app/assets/images/m/ico-map-inverted.png);
+    background-image: url(../images/m/ico-map-inverted.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .home .main .info .list .item.map .ico {
-    background-image: url(../../../app/assets/images/l/ico-map-inverted.png);
+    background-image: url(../images/l/ico-map-inverted.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .home .main .info .list .item.map .ico {
-    background-image: url(../../../app/assets/images/xl/ico-map-inverted.png);
+    background-image: url(../images/xl/ico-map-inverted.png);
   }
 }
 #wrapper .home .main .info .list .item.map .text {
@@ -828,7 +828,7 @@ img {
   content: "";
   background-size: auto;
   background-repeat: repeat;
-  background-image: url(../../../app/assets/images/s/bg-pattern-2.png);
+  background-image: url(../images/s/bg-pattern-2.png);
   background-position: center;
   width: 300%;
   height: 300%;
@@ -840,17 +840,17 @@ img {
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-store:before {
-    background-image: url(../../../app/assets/images/m/bg-pattern-2.png);
+    background-image: url(../images/m/bg-pattern-2.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-store:before {
-    background-image: url(../../../app/assets/images/l/bg-pattern-2.png);
+    background-image: url(../images/l/bg-pattern-2.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-store:before {
-    background-image: url(../../../app/assets/images/xl/bg-pattern-2.png);
+    background-image: url(../images/xl/bg-pattern-2.png);
   }
 }
 #wrapper .boost-store .main {
@@ -1059,22 +1059,22 @@ img {
 #wrapper .boost-talks-1 .main .list.info .item:hover.map .ico {
   background-size: auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-map-inverted.png);
+  background-image: url(../images/s/ico-map-inverted.png);
   background-position: center center;
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-talks-1 .main .list.info .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/m/ico-map-inverted.png);
+    background-image: url(../images/m/ico-map-inverted.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-talks-1 .main .list.info .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/l/ico-map-inverted.png);
+    background-image: url(../images/l/ico-map-inverted.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-talks-1 .main .list.info .item:hover.map .ico {
-    background-image: url(../../../app/assets/images/xl/ico-map-inverted.png);
+    background-image: url(../images/xl/ico-map-inverted.png);
   }
 }
 #wrapper .boost-talks-1 .main .list.info .item.list-title {
@@ -1090,7 +1090,7 @@ img {
 #wrapper .boost-talks-1 .main .list.info .item.map .ico {
   background-size: auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-map.png);
+  background-image: url(../images/s/ico-map.png);
   background-position: center center;
   font-size: 0;
   flex-shrink: 0;
@@ -1101,17 +1101,17 @@ img {
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-talks-1 .main .list.info .item.map .ico {
-    background-image: url(../../../app/assets/images/m/ico-map.png);
+    background-image: url(../images/m/ico-map.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-talks-1 .main .list.info .item.map .ico {
-    background-image: url(../../../app/assets/images/l/ico-map.png);
+    background-image: url(../images/l/ico-map.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-talks-1 .main .list.info .item.map .ico {
-    background-image: url(../../../app/assets/images/xl/ico-map.png);
+    background-image: url(../images/xl/ico-map.png);
   }
 }
 #wrapper .boost-talks-1 .main .list.info .item.map .text {
@@ -1133,7 +1133,7 @@ img {
   content: "";
   background-size: auto;
   background-repeat: repeat;
-  background-image: url(../../../app/assets/images/s/bg-pattern-3.png);
+  background-image: url(../images/s/bg-pattern-3.png);
   background-position: center;
   width: 300%;
   height: 300%;
@@ -1145,17 +1145,17 @@ img {
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-talks-2:before {
-    background-image: url(../../../app/assets/images/m/bg-pattern-3.png);
+    background-image: url(../images/m/bg-pattern-3.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-talks-2:before {
-    background-image: url(../../../app/assets/images/l/bg-pattern-3.png);
+    background-image: url(../images/l/bg-pattern-3.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-talks-2:before {
-    background-image: url(../../../app/assets/images/xl/bg-pattern-3.png);
+    background-image: url(../images/xl/bg-pattern-3.png);
   }
 }
 #wrapper .boost-talks-2 .main {
@@ -1260,24 +1260,24 @@ img {
   border-radius: 0.3rem;
   background-size: 45% auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-more.png);
+  background-image: url(../images/s/ico-more.png);
   background-position: center center;
   transform: rotate(0deg);
   transition: transform 0.2s cubic-bezier(0.39, 0.575, 0.565, 1);
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-talks-2 .main .menu .list .item a:after {
-    background-image: url(../../../app/assets/images/m/ico-more.png);
+    background-image: url(../images/m/ico-more.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-talks-2 .main .menu .list .item a:after {
-    background-image: url(../../../app/assets/images/l/ico-more.png);
+    background-image: url(../images/l/ico-more.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-talks-2 .main .menu .list .item a:after {
-    background-image: url(../../../app/assets/images/xl/ico-more.png);
+    background-image: url(../images/xl/ico-more.png);
   }
 }
 #wrapper .boost-talks-2 .main .menu .list .item a:hover, #wrapper .boost-talks-2 .main .menu .list .item a.active {
@@ -1292,23 +1292,23 @@ img {
 #wrapper .boost-talks-2 .main .menu .list .item a.active:after {
   background-size: 45% auto;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-less.png);
+  background-image: url(../images/s/ico-less.png);
   background-position: center center;
   transform: rotate(180deg);
 }
 @media all and (min-width: 480px) {
   #wrapper .boost-talks-2 .main .menu .list .item a.active:after {
-    background-image: url(../../../app/assets/images/m/ico-less.png);
+    background-image: url(../images/m/ico-less.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .boost-talks-2 .main .menu .list .item a.active:after {
-    background-image: url(../../../app/assets/images/l/ico-less.png);
+    background-image: url(../images/l/ico-less.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .boost-talks-2 .main .menu .list .item a.active:after {
-    background-image: url(../../../app/assets/images/xl/ico-less.png);
+    background-image: url(../images/xl/ico-less.png);
   }
 }
 #wrapper .agenda {
@@ -1558,44 +1558,44 @@ img {
   text-overflow: "";
   background-size: auto 1.5rem;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-arrow-down.png);
+  background-image: url(../images/s/ico-arrow-down.png);
   background-position: right 1.5rem center;
   cursor: pointer;
 }
 @media all and (min-width: 480px) {
   #wrapper .cadastro .main .form .field.select {
-    background-image: url(../../../app/assets/images/m/ico-arrow-down.png);
+    background-image: url(../images/m/ico-arrow-down.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .cadastro .main .form .field.select {
-    background-image: url(../../../app/assets/images/l/ico-arrow-down.png);
+    background-image: url(../images/l/ico-arrow-down.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .cadastro .main .form .field.select {
-    background-image: url(../../../app/assets/images/xl/ico-arrow-down.png);
+    background-image: url(../images/xl/ico-arrow-down.png);
   }
 }
 #wrapper .cadastro .main .form .field.select:focus {
   background-size: auto 1.5rem;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-arrow-up.png);
+  background-image: url(../images/s/ico-arrow-up.png);
   background-position: right 1.5rem center;
 }
 @media all and (min-width: 480px) {
   #wrapper .cadastro .main .form .field.select:focus {
-    background-image: url(../../../app/assets/images/m/ico-arrow-up.png);
+    background-image: url(../images/m/ico-arrow-up.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .cadastro .main .form .field.select:focus {
-    background-image: url(../../../app/assets/images/l/ico-arrow-up.png);
+    background-image: url(../images/l/ico-arrow-up.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .cadastro .main .form .field.select:focus {
-    background-image: url(../../../app/assets/images/xl/ico-arrow-up.png);
+    background-image: url(../images/xl/ico-arrow-up.png);
   }
 }
 #wrapper .cadastro .main .form .field.select::-ms-expand {
@@ -1604,43 +1604,43 @@ img {
 #wrapper .cadastro .main .form .field.select.inverted {
   background-size: auto 1.5rem;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-arrow-down-inverted.png);
+  background-image: url(../images/s/ico-arrow-down-inverted.png);
   background-position: right 1.5rem center;
 }
 @media all and (min-width: 480px) {
   #wrapper .cadastro .main .form .field.select.inverted {
-    background-image: url(../../../app/assets/images/m/ico-arrow-down-inverted.png);
+    background-image: url(../images/m/ico-arrow-down-inverted.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .cadastro .main .form .field.select.inverted {
-    background-image: url(../../../app/assets/images/l/ico-arrow-down-inverted.png);
+    background-image: url(../images/l/ico-arrow-down-inverted.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .cadastro .main .form .field.select.inverted {
-    background-image: url(../../../app/assets/images/xl/ico-arrow-down-inverted.png);
+    background-image: url(../images/xl/ico-arrow-down-inverted.png);
   }
 }
 #wrapper .cadastro .main .form .field.select.inverted:focus {
   background-size: auto 1.5rem;
   background-repeat: no-repeat;
-  background-image: url(../../../app/assets/images/s/ico-arrow-up-inverted.png);
+  background-image: url(../images/s/ico-arrow-up-inverted.png);
   background-position: righ 1.5rem t center;
 }
 @media all and (min-width: 480px) {
   #wrapper .cadastro .main .form .field.select.inverted:focus {
-    background-image: url(../../../app/assets/images/m/ico-arrow-up-inverted.png);
+    background-image: url(../images/m/ico-arrow-up-inverted.png);
   }
 }
 @media all and (min-width: 880px) {
   #wrapper .cadastro .main .form .field.select.inverted:focus {
-    background-image: url(../../../app/assets/images/l/ico-arrow-up-inverted.png);
+    background-image: url(../images/l/ico-arrow-up-inverted.png);
   }
 }
 @media all and (min-width: 1340px) {
   #wrapper .cadastro .main .form .field.select.inverted:focus {
-    background-image: url(../../../app/assets/images/xl/ico-arrow-up-inverted.png);
+    background-image: url(../images/xl/ico-arrow-up-inverted.png);
   }
 }
 #wrapper .cadastro .main .form .field-text {
@@ -2052,3 +2052,6 @@ img {
 }
 
 /*# sourceMappingURL=app.css.map */
+
+
+
